@@ -1,0 +1,7 @@
+{
+  "name": "UXSenseAI",
+  "description": "Professional AI-powered UX, UI, and user behavior analyzer that provides multi-modal insights and actionable optimization recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
